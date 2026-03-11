@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidhi Nema</h1>
 <h3 align="center">A passionate frontend developer and Information Technology Student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhi03826" alt="vidhi03826" /></a> </p>
-
 - 🔭 I’m currently working on **CreditPathAI – Currently developing a machine learning platform that predicts borrower default risk and recommends recovery actions to improve loan collection efficiency. Initiated as part of my Infosys Springboard Internship project.**
 
 - 🌱 I’m currently learning **Java, DevOps, AI/ML and improving my Data Structures & Algorithms skills**
