@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vidhi Nema</h1>
 <h3 align="center">A passionate frontend developer and Information Technology Student from India</h3>
 
-- 🔭 I’m currently working on **CreditPathAI – Currently developing a machine learning platform that predicts borrower default risk and recommends recovery actions to improve loan collection efficiency. Initiated as part of my Infosys Springboard Internship project.**
+- 🔭 I’m currently working on **CreditPathAI Currently developing a machine learning platform that predicts borrower default risk and recommends recovery actions to improve loan collection efficiency. Initiated as part of my Infosys Springboard Internship project.**
 
 - 🌱 I’m currently learning **Java, DevOps, AI/ML and improving my Data Structures & Algorithms skills**
 
